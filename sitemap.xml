@@ -2,15 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>paulwetzel.github.io/initialcommit/</loc>
+    <loc>https://paulwetzel.github.io/initialcommit/</loc>
     <lastmod>2022-05-15T17:44:06+02:00</lastmod>
   </url><url>
-    <loc>paulwetzel.github.io/new-website/</loc>
+    <loc>https://paulwetzel.github.io/new-website/</loc>
     <lastmod>2022-05-15T17:44:06+02:00</lastmod>
   </url><url>
-    <loc>paulwetzel.github.io/</loc>
+    <loc>https://paulwetzel.github.io/</loc>
     <priority>0</priority>
   </url><url>
-    <loc>paulwetzel.github.io/about/</loc>
+    <loc>https://paulwetzel.github.io/about/</loc>
   </url>
 </urlset>
