@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/paulwetzel
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://www.paulwet.com
+  * I am paulwetzel (https://keybase.io/paulwetzel) on keybase.
+  * I have a public key ASDOmZ3gfQPo9EH8YteeTaBXJgk8I2_rQSPXMpwzlUvX9Ao
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01205da11c6bc6ec192d2be12de36d0aa0a0af3fc96a3623d58c0d84457aa80beb490a",
+      "host": "keybase.io",
+      "kid": "0120ce999de07d03e8f441fc62d79e4da05726093c236feb4123d7329c33954bd7f40a",
+      "uid": "9dd2a72c0f4e1c2de1ba27418df39b19",
+      "username": "paulwetzel"
+    },
+    "merkle_root": {
+      "ctime": 1656314429,
+      "hash": "1f9893606561787a7a9f51691be97d6a8c2440059c019a14aa1205fd768427335360be82cae3a3954b3f9d22771747b5651bd1431fe44f0f4cb238ae509a2b0d",
+      "hash_meta": "52ec9b923c1081f83357b9d025f3f3d7e686c9b867746b2f99ec4fd0bfdcbfde",
+      "seqno": 22745991
+    },
+    "service": {
+      "entropy": "/CsLWsgeCa2mT0EZbSS7HQqv",
+      "hostname": "www.paulwet.com",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "6.0.1"
+  },
+  "ctime": 1656314457,
+  "expire_in": 504576000,
+  "prev": "43931adb6b6fad416105b449b634d331069a2ce8435cb07bd6b0e89ba34a9c83",
+  "seqno": 11,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgzpmd4H0D6PRB/GLXnk2gVyYJPCNv60Ej1zKcM5VL1/QKp3BheWxvYWTESpcCC8QgQ5Ma22tvrUFhBbRJtjTTMQaaLOhDXLB71rDom6NKnIPEIOi8LqBov5yvyCzXO147QLLuGpbEj7wRj8OHRyeQi4p7AgHCo3NpZ8RA6lclogy+EWtobgle+5PrEt0fbOQhIm/0l721htq7pI19Wg1F5Fsr+QpBhnSpPKH6tfRrIaJRtBSi8e0pL17fA6hzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIJWsy2dGX/6bqgN3ypStlfCcl/uQEvmc3nrY03UkjUxJo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/paulwetzel
+
+==================================================================
