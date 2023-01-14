@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://paulwetzel.github.io/sitemap.xml
